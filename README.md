@@ -1,6 +1,6 @@
 # Welcome to my GitHub. My name is Ben-hur Arteaga Vasconcelos
 
-Full Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF0044&width=650&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+JavaScript;Fluent+in+English+and+Spanish)](https://git.io/typing-svg)
 
 ---
 
