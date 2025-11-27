@@ -1,21 +1,20 @@
-Hi there, I'm Ben-hur Arteaga Vasconcelos! 👋
-I'm an Android development enthusiast, exploring the world of mobile development within the Dev Space community. Here's a bit about me:
+# Hi, I'm Ben-hur Arteaga Vasconcelos 👋
 
-🔭 Currently, I'm focused on Android development, honing my skills in Kotlin and actively contributing to projects on the platform.
+Full Stack Developer (**React, Node.js, and JavaScript**), currently pursuing a **Bachelor’s in Software Development** at **BYU–Idaho**. I work on practical projects integrating front end (React) and back end (Node.js), with a focus on best practices, APIs, and user experience.
 
+I am fluent in **Spanish** and **English** and have experience in customer service, sales, and B2B, which helps me create solutions aligned with real business needs.
 
+---
 
-📚 I'm pursuing a bachelor's degree in Software Development at BYU - Idaho, where I'm diving deeper into Python and JavaScript, thereby expanding my skillset.
+## 🔧 Tech Stack
 
+- **Front end:** React, HTML5, CSS3, JavaScript  
+- **Back end:** Node.js, Express  
+- **Databases:** PostgreSQL, SQL basics  
+- **Tools:** Git, GitHub, REST APIs, JSON  
 
+---
 
-💼 Besides my software development journey, I bring solid experience in customer service, sales, and B2B business. My ability to listen and understand customer needs, combined with my sales experience, has propelled my growth in these areas.
+## 📫 Where to find me
 
-
-
-👨‍💻 I'm involved in hands-on Android development projects, actively contributing to feature improvements and expansion. I'm gaining proficiency in technologies like Kotlin, XML, and Git, while continuing to explore new opportunities in the Android universe.
-
-
-
-🚀 I'm excited to collaborate on challenging projects and continue my learning journey in software development. Check out my [LinkedIn](https://linkedin.com/in/benvasconcelos) profile!
-
+- LinkedIn: [Ben-hur Arteaga Vasconcelos](https://www.linkedin.com)
